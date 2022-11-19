@@ -9,9 +9,9 @@ Continuing the project,we made changes to the website.We were told to add more f
 - JavaScript
 - Bootstrap/CSS
 - HTML
-- Data.js(static/js/data.js)
-- index.html
-- app.js(static/js/app.js)
+- [Data file](static/js/data.js)
+- [html file](index.html)
+- [Javascript File](static/js/app.js)
 
 
 ## Results
