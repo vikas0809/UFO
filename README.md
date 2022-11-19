@@ -10,7 +10,7 @@ Continuing the project,we made changes to the website.We were told to add more f
 - Bootstrap/CSS
 - HTML
 - [Data file](static/js/data.js)
-- [html file](index.html)
+- [HTML file](index.html)
 - [Javascript File](static/js/app.js)
 
 
