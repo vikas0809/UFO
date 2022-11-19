@@ -4,7 +4,7 @@
 
 Continuing the project,we made changes to the website.We were told to add more filters which will give users more flexibilty to analyse the UFO data.They should be able to add multiple filters at same time and eliminate the need of click of buuton.It should automatically listen to the change events on inputbox and apply the filter on the table.
 
-### Tools and Data files required:
+### Tools and Files required:
 
 - JavaScript
 - Bootstrap/CSS
