@@ -9,9 +9,9 @@ Continuing the project,we made changes to the website.We were told to add more f
 - JavaScript
 - Bootstrap/CSS
 - HTML
-- Data.js[]
-- index.html[]
-- app.js[]
+- Data.js(static/js/data.js)
+- index.html
+- app.js(static/js/app.js)
 
 
 ## Results
@@ -26,16 +26,16 @@ The filter criterias we were told to add were:
 
 Second thing to remove was Search button,it should automatically check the filters and filter the table based on user input.If all the filters added were removed,it should autmatically return to its normal state i.e table with unfiltered data.
 
-![1][static/images/1.png]
+![1](static/images/1.png)
 
 
 ##### Working example with single filer.
 
-![2][static/images/2.png]
+![2](static/images/2.png)
 
 ##### Working example with multiple filters.
 
-![3][static/images/3.png]
+![3](static/images/3.png)
 
 ## Drawbacks:
 
